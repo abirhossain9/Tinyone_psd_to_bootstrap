@@ -1,0 +1,340 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) 
+{ 
+	/*navbar start*/
+	.custom_nav
+	{
+     text-align: right;
+	}
+	.custom_nav_item ul li a
+	{
+     padding: 0 0 !important;
+	}
+	/*navbar end*/
+	/*slider start*/
+.slider_col
+{
+	text-align: center;
+}
+
+
+	.inspiration {
+    margin-top: -3px;
+}
+.inspiration h1 {
+
+    font-size: 24px;
+   
+}
+.inspiration h2 {
+
+    font-size: 17px;
+   
+}
+.inspiration p {
+
+    font-size: 15px;
+   
+}
+.inspiration i {
+   
+    font-size: 35px;
+    margin-right: 25px;
+}
+.c-ind
+{
+	    bottom: -50px;
+}
+.c-ind li
+{
+	width: 13px;
+	height: 13px;
+}
+.slider {
+    padding-bottom: 60px;
+    padding-top: 30px;
+}
+/*slider end*/
+
+/*services start*/
+.common_title h1
+{
+	font-size: 27px;
+
+}
+
+.common_title p
+{
+	
+	padding: 0 0px;
+	font-size: 17px;
+}
+.fb_texts h1
+{
+    
+	font-size: 20px;	
+	
+}
+.fb_texts p
+{
+	font-size: 16px;	
+}
+.service {
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.single_item
+{
+	margin-top: 30px;
+}
+.fb_texts
+{
+	text-align: center;
+	margin-top: 10px;
+}
+.icons i
+{
+
+	font-size: 39px;
+	
+}
+/*services end*/
+/*contact start*/
+.p_l_0
+{
+	padding-left: 15px;
+
+	/*background-color: #fcdb00;*/
+}
+
+.custom-btn
+{
+margin:15px auto;
+}
+.contact {
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+.c_logos i {
+    font-size: 37px;
+}
+/*contact end*/
+/*footer start*/
+.custom_link {
+  
+    margin-right: 34px;
+    margin-top: 10px;
+}
+/*footer end*/
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) 
+
+{ 
+	/*navbar start*/
+	.custom_nav
+	{
+     text-align: right;
+	}
+	.custom_nav_item ul li a
+	{
+     padding: 0 0 !important;
+	}
+	/*navbar end*/
+	/*slider start*/
+
+	.inspiration {
+    margin-top: -3px;
+}
+.inspiration h1 {
+
+    font-size: 24px;
+   
+}
+.inspiration h2 {
+
+    font-size: 17px;
+   
+}
+.inspiration p {
+
+    font-size: 15px;
+   
+}
+.inspiration i {
+   
+    font-size: 35px;
+    margin-right: 25px;
+}
+.c-ind
+{
+	    bottom: -50px;
+}
+.c-ind li
+{
+	width: 13px;
+	height: 13px;
+}
+.slider {
+    padding-bottom: 60px;
+    padding-top: 20px;
+}
+/*slider end*/
+
+/*services start*/
+.service {
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+.common_title p
+{
+	
+	padding: 0 16px;
+}
+.single_item
+{
+	margin-top: 30px;
+}
+.fb_texts
+{
+	text-align: center;
+	margin-top: 10px;
+}
+.common_title h1 {
+    font-size: 27px;
+}
+.common_title p
+{
+	
+	padding: 0 16px;
+	font-size: 17px;
+}
+.icons i
+{
+
+	font-size: 39px;
+	}
+
+/*services end*/
+/*contact start*/
+.contact {
+    padding-top: 60px;
+    padding-bottom: 65px;
+}
+
+.c_logos i {
+
+   font-size: 35px;
+    
+}
+/*contact end*/
+/*footer start*/
+.footer
+{
+	padding-bottom: 65px;
+}
+.custom_link {
+  
+    margin-right: 34px;
+    margin-top: 10px;
+}
+/*footer end*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) 
+{ 
+	/*navbar start*/
+	.custom_nav
+	{
+     text-align: right;
+	}
+	.custom_nav_item ul li a
+	{
+     padding: 0 0 !important;
+	}
+	/*navbar end*/
+/*slider start*/
+
+.inspiration {
+    margin-top: 25px;
+}
+.inspiration h1 {
+   
+    font-size: 27px;
+    
+}
+.c-ind li
+{
+	width: 13px;
+	height: 13px;
+}
+/*slider end*/
+
+/*services start*/
+.common_title p
+{
+	
+	padding: 0 16px;
+	font-size: 17px;
+}
+.service {
+    padding-top: 70px;
+    padding-bottom: 80px;
+}
+
+.single_item {
+    margin-top: 60px;
+}
+.common_title h1 {
+    font-size: 27px;
+}
+
+/*services end*/
+/*contact start*/
+.contact {
+    padding-top: 70px;
+    padding-bottom: 80px;
+}
+.c_logos i {
+    font-size: 40px;
+}
+/*contact  end*/
+/*footer start*/
+.custom_link {
+  
+    margin-right: 34px;
+    margin-top: 10px;
+}
+.footer {
+   
+    padding-bottom: 80px;
+}
+/*footer end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) 
+{ 
+
+/*services start*/
+.common_title p
+{
+	
+	padding: 0 16px;
+}
+
+/*services end*/
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) 
+{ 
+
+
+}

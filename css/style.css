@@ -1,0 +1,216 @@
+/*font-family: 'PT Sans', sans-serif;*/
+
+body
+{
+	font-family: 'PT Sans', sans-serif;
+	color: #898989;
+
+}
+
+/*header start*/
+header
+{
+	background-color: #fcdb00;
+	padding: 15px 0;
+}
+.menubar
+{
+
+}
+.menubar ul li a
+{
+	padding: 0 35px !important;
+	font-size: 22px;
+	font-weight: 700;
+
+}
+/*heder end*/
+
+/*slider start*/
+.slider
+{
+
+	background-color: #fcdb00;
+	padding-bottom: 100px;
+	padding-top: 10px;
+
+}
+.inspiration{
+	margin-top: 50px;
+}
+.inspiration h1{
+	font-weight: 700;
+	size: 32px;
+	color: #101010;
+	
+
+}
+.inspiration h2{
+	font-weight: 400;
+	font-size: 20px;
+	color: #313841;
+}
+.inspiration p{
+	font-size: 16px;
+	color: #555555;
+}
+.inspiration i
+{
+	color: #101010;
+	font-size: 45px;
+	margin-right: 30px;
+}
+.c-ind
+{
+	 bottom: -75px;
+}
+.c-ind li{
+  
+   
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+
+
+/*slider end*/
+
+
+/*services start*/
+.service {
+    padding-top: 100px;
+    padding-bottom: 125px;
+}
+.common_title 
+{
+
+    margin-bottom: 10px;
+}
+.common_title h1
+{
+    font-weight: 700;
+	font-size: 32px;
+	color: #101010;
+}
+.common_title p
+{
+	font-weight: 400;
+	font-size: 20px;
+	color: #313841;
+	padding: 0 70px;
+}
+.single_item
+{
+	margin-top: 70px;
+}
+.icons
+{
+	text-align: center;
+}
+.icons i
+{
+
+	font-size: 50px;
+	color: #010101;
+}
+.fb_texts h1
+{
+  
+    font-weight: 400;
+	font-size: 22px;
+	color: #101010;
+	
+}
+.fb_texts p
+{
+	font-weight: 400;
+	font-size: 16px;
+	color: #898989;
+	letter-spacing: 1px;
+}
+/*services end*/
+
+/*contact start*/
+.contact
+{
+	background-color: #010101;
+	padding-top: 100px;
+	padding-bottom: 125px;
+}
+.yellow
+{
+	color: #fcdb00 !important;
+}
+.ash
+{
+	color:#898989 !important;
+}
+.p_l_0
+{
+	padding-left: 0px;
+
+}
+.form_yellow
+{
+background-color: #fcdb00;
+border: 1px solid #fcdb00;
+}
+.form_yellow:hover
+{
+background-color: #4CD3FF;
+border: 1px solid #4CD3FF;
+transition: .5s;
+}
+
+
+
+.c_logos {
+    margin-left: 36px;
+    margin-top: 50px;
+    text-align: center;
+}
+.c_logos i
+{
+	font-size: 45px;
+	margin-right: 20px;
+	color: #fcdb00;
+}
+
+
+/*contact end*/
+
+/*footer start*/
+.footer
+{
+	background-color: #010101;
+	padding-bottom: 100px;
+}
+.address
+{
+	font-size: 16px;
+	color: #ffffff;
+	text-align: center;
+}
+.custom_link
+{
+	text-align: center;
+}
+.custom_link li 
+{
+	list-style: none;
+}
+.custom_link a
+{
+  text-decoration: none;
+  color: #ffffff;
+  
+}
+.custom_link a:hover
+{
+  
+  color: #fcdb00;
+  transition: .5s;
+  
+}
+/*footer end*/
